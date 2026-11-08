@@ -69,25 +69,44 @@ replays each flow step by step. The schema is validated and diffable, so the arc
 
 <br/>
 
-## Tech stack
+## Favorite tech
 
 <div align="center">
 
-**Core**
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,electron,vite&theme=dark" alt="core stack" />
-
-**Mobile & Apps**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,angular,express&theme=dark" alt="apps stack" />
-
-**AI, Data & Systems**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,java,docker,linux,bash&theme=dark" alt="ai and systems stack" />
-
-**Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma&theme=dark" alt="workflow" />
+<table>
+<tr>
+<td align="center" width="130"><b>Core</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,react,nodejs&theme=dark" alt="TypeScript, React, Node.js" /></td>
+</tr>
+<tr>
+<td align="center"><b>Mobile & Apps</b></td>
+<td><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" /></td>
+</tr>
+<tr>
+<td align="center"><b>AI</b></td>
+<td><img src="assets/claude.svg" width="48" alt="Claude" /></td>
+</tr>
+<tr>
+<td align="center"><b>Messaging</b></td>
+<td><img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" /></td>
+</tr>
+<tr>
+<td align="center"><b>Infrastructure</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" alt="Docker, AWS" /></td>
+</tr>
+<tr>
+<td align="center"><b>Observability</b></td>
+<td><img src="assets/opentelemetry.svg" width="48" alt="OpenTelemetry" />&nbsp;<img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana" /></td>
+</tr>
+<tr>
+<td align="center"><b>OS</b></td>
+<td><img src="https://skillicons.dev/icons?i=apple&theme=dark" alt="macOS" /></td>
+</tr>
+<tr>
+<td align="center"><b>Repository</b></td>
+<td><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></td>
+</tr>
+</table>
 
 </div>
 
