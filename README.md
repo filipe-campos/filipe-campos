@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,45:3a1c71,100:00e5ff&height=230&section=header&text=Filipe%20Campos&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI-Native%20Product%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Filipe Campos" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,45:3a1c71,100:00e5ff&height=230&section=header&text=Filipe%20Campos&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Filipe Campos" />
 
 <a href="https://github.com/filipe-campos">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=680&lines=%3E+booting+neural+workspace...;%3E+building+an+IDE+with+Claude+Code+inside;%3E+turning+prompts+into+production+code;%3E+TypeScript+%E2%80%A2+Flutter+%E2%80%A2+AI+agents;%3E+discipline+%2B+dedication+%2B+passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=680&lines=%3E+Software+Engineer+and+entrepreneur;%3E+Designing+systems+that+scale+with+the+business;%3E+From+architecture+to+production;%3E+Building+developer+tools+in+the+open;%3E+Engineering+products%2C+building+companies" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=for-the-badge&labelColor=0b0f1a" alt="status" />
-<img src="https://img.shields.io/badge/MODE-AI%20NATIVE-a855f7?style=for-the-badge&labelColor=0b0f1a" alt="mode" />
+<img src="https://img.shields.io/badge/ROLE-SOFTWARE%20ENGINEER-a855f7?style=for-the-badge&labelColor=0b0f1a" alt="role" />
 <img src="https://img.shields.io/badge/BASE-BRAZIL%20%F0%9F%87%A7%F0%9F%87%B7-22c55e?style=for-the-badge&labelColor=0b0f1a" alt="location" />
-<img src="https://komarev.com/ghpvc/?username=filipe-campos&style=for-the-badge&color=0b0f1a&label=SIGNALS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=filipe-campos&style=for-the-badge&color=0b0f1a&label=VISITORS" alt="profile views" />
 
 </div>
 
@@ -24,26 +24,26 @@ import type { Agent } from '@anthropic/claude'
 
 export const filipe: Engineer & { copilot: Agent } = {
   name: 'Filipe Campos',
-  role: 'Software Engineer · Product Builder',
+  role: 'Software Engineer',
   base: 'Brazil',
   online: 'since 2018',
-  ships: ['desktop IDEs', 'web platforms', 'mobile apps', 'games', 'SaaS monorepos'],
-  thinksIn: ['TypeScript', 'systems', 'feedback loops'],
   copilot: 'Claude', // pair programmer, never autopilot
-  motto: 'Make discipline a motto, dedication a flag, and passion for work an example.',
+  purpose: 'Being part of major transformations through technology.',
 }
 ```
 
 <br/>
 
-## ◈ Currently compiling
+## ◈ Open source projects
 
 <table>
 <tr>
 <td width="72" align="center">⚡</td>
 <td>
 
-**Walph** · a keyboard-first, cross-platform desktop IDE with **Claude Code built into its core**, not bolted on as a plugin.
+**Walph** &nbsp;<img src="https://img.shields.io/badge/open%20source-00e5ff?style=flat-square&labelColor=0b0f1a" alt="open source" />
+
+A keyboard-first, cross-platform desktop IDE with **Claude Code built into its core**, not bolted on as a plugin.
 The agent lives beside the editor, reads your diagnostics and selection, proposes changes as side by side diffs and keeps
 working in background workspaces while you move on.
 
@@ -51,30 +51,17 @@ working in background workspaces while you move on.
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-## ◈ Operating system
-
-<table>
 <tr>
-<td width="50%" valign="top">
+<td width="72" align="center">🗺️</td>
+<td>
 
-### 🧠 AI-native engineering
-Agents as teammates: context engineering, tool use, review loops and guardrails that make AI output production-grade.
+**Archbook** &nbsp;<img src="https://img.shields.io/badge/open%20source-a855f7?style=flat-square&labelColor=0b0f1a" alt="open source" />
 
-### 🖥️ Developer tools
-Editors, terminals, language servers and the small details that make a tool feel instant.
+Living architecture documentation generated from the codebase itself. A Claude Code plugin maps components, connections,
+runtime boundaries and critical flows, every element backed by code that was actually read, and an interactive viewer
+replays each flow step by step. The schema is validated and diffable, so the architecture evolves with the code.
 
-</td>
-<td width="50%" valign="top">
-
-### 📱 Cross-platform products
-From a single codebase to every screen: web, desktop and mobile with Flutter and React.
-
-### 🎮 Game loops
-Casual games and game factories, where feel, timing and performance are the whole product.
+`TypeScript` `React` `Claude Code plugin` `JSON Schema` `Vitest`
 
 </td>
 </tr>
@@ -82,7 +69,7 @@ Casual games and game factories, where feel, timing and performance are the whol
 
 <br/>
 
-## ◈ Neural stack
+## ◈ Tech stack
 
 <div align="center">
 
@@ -106,27 +93,16 @@ Casual games and game factories, where feel, timing and performance are the whol
 
 <br/>
 
-## ◈ Telemetry
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=filipe-campos&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0b0f1a&title_color=00e5ff&icon_color=a855f7&text_color=c9d1d9&ring_color=00e5ff" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-campos&layout=compact&hide_border=true&bg_color=0b0f1a&title_color=00e5ff&text_color=c9d1d9&langs_count=8" alt="Top languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=filipe-campos&bg_color=0b0f1a&color=c9d1d9&line=00e5ff&point=a855f7&area=true&area_color=3a1c71&hide_border=true&custom_title=Commit%20signal" alt="Activity graph" />
-
-</div>
-
-<br/>
-
-## ◈ Runtime principles
+## ◈ Engineering principles
 
 ```diff
-+ Ship small, ship often, ship polished.
-+ Let the AI write the first draft. Let the engineer own the last word.
-+ Performance is a feature. Latency is a bug.
-+ Every pixel and every millisecond is a design decision.
-- "It works on my machine."
++ Solve the business problem first. Technology is the how, not the why.
++ Simple systems scale. Clever systems break.
++ Measure before optimizing, and decide with data.
++ Own the outcome, from the first commit to production.
++ Tests, observability and code review are part of the product.
++ AI amplifies engineering judgment. It never replaces it.
+- Shipping code nobody on the team understands.
 ```
 
 <br/>
