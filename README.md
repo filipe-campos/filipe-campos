@@ -130,7 +130,7 @@ replays each flow step by step. The schema is validated and diffable, so the arc
 
 <a href="https://www.linkedin.com/in/filipecps/"><img src="https://img.shields.io/badge/LinkedIn-filipecps-00e5ff?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=0b0f1a" alt="LinkedIn" /></a>
 <a href="https://instagram.com/o.filipecampos"><img src="https://img.shields.io/badge/Instagram-o.filipecampos-a855f7?style=for-the-badge&logo=instagram&logoColor=a855f7&labelColor=0b0f1a" alt="Instagram" /></a>
-<a href="mailto:filipefcl@hotmail.com"><img src="https://img.shields.io/badge/Email-filipefcl%40hotmail.com-22c55e?style=for-the-badge&logo=maildotru&logoColor=22c55e&labelColor=0b0f1a" alt="Email" /></a>
+<a href="mailto:filipefcl@hotmail.com"><img src="https://img.shields.io/badge/Email-filipefcl%40hotmail.com-22c55e?style=for-the-badge&logo=microsoftoutlook&logoColor=22c55e&labelColor=0b0f1a" alt="Email" /></a>
 
 ```bash
 $ ping filipe --channel linkedin | instagram | email
