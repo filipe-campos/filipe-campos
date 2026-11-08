@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,45:3a1c71,100:00e5ff&height=230&section=header&text=Filipe%20Campos&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Filipe Campos" />
 
 <a href="https://github.com/filipe-campos">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=680&lines=%3E+Software+Engineer+and+entrepreneur;%3E+Designing+systems+that+scale+with+the+business;%3E+From+architecture+to+production;%3E+Building+developer+tools+in+the+open;%3E+Engineering+products%2C+building+companies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=680&lines=%3E+Software+Engineer+and+entrepreneur;%3E+Designing+systems+that+scale+with+the+business;%3E+From+architecture+to+production;%3E+Building+developer+tools;%3E+Engineering+products%2C+building+companies" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -47,7 +47,7 @@ A keyboard-first, cross-platform desktop IDE with **Claude Code built into its c
 The agent lives beside the editor, reads your diagnostics and selection, proposes changes as side by side diffs and keeps
 working in background workspaces while you move on.
 
-`Electron` `React 19` `TypeScript 7` `CodeMirror 6` `LSP` `git` `xterm.js` `Docker` `Claude Agent SDK`
+`Electron` `React 19` `TypeScript 7` `Claude Agent SDK`
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ Living architecture documentation generated from the codebase itself. A Claude C
 runtime boundaries and critical flows, every element backed by code that was actually read, and an interactive viewer
 replays each flow step by step. The schema is validated and diffable, so the architecture evolves with the code.
 
-`TypeScript` `React` `Claude Code plugin` `JSON Schema` `Vitest`
+`TypeScript` `React` `Claude Code Plugin`
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ replays each flow step by step. The schema is validated and diffable, so the arc
 </tr>
 <tr>
 <td align="center"><b>OS</b></td>
-<td><img src="https://skillicons.dev/icons?i=apple&theme=dark" alt="macOS" /></td>
+<td><img src="assets/apple.svg" width="48" alt="macOS" /></td>
 </tr>
 <tr>
 <td align="center"><b>Repository</b></td>
