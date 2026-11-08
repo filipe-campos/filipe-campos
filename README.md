@@ -20,21 +20,21 @@
 ```ts
 // ~/filipe/identity.ts
 import { Engineer } from '@humans/core'
-import type { Agent } from '@anthropic/claude'
+import type { Agent } from '@engineer/ai'
 
 export const filipe: Engineer & { copilot: Agent } = {
   name: 'Filipe Campos',
   role: 'Software Engineer',
   base: 'Brazil',
-  online: 'since 2018',
-  copilot: 'Claude', // pair programmer, never autopilot
+  working: 'Since 2010',
+  copilot: 'Claude',
   purpose: 'Being part of major transformations through technology.',
 }
 ```
 
 <br/>
 
-## ◈ Open source projects
+## Open source projects
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ replays each flow step by step. The schema is validated and diffable, so the arc
 
 <br/>
 
-## ◈ Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -93,21 +93,19 @@ replays each flow step by step. The schema is validated and diffable, so the arc
 
 <br/>
 
-## ◈ Engineering principles
+## Engineering principles
 
 ```diff
 + Solve the business problem first. Technology is the how, not the why.
-+ Simple systems scale. Clever systems break.
 + Measure before optimizing, and decide with data.
 + Own the outcome, from the first commit to production.
 + Tests, observability and code review are part of the product.
-+ AI amplifies engineering judgment. It never replaces it.
 - Shipping code nobody on the team understands.
 ```
 
 <br/>
 
-## ◈ Open a channel
+## Open a channel
 
 <div align="center">
 
